@@ -1,5 +1,4 @@
 ![banner_live2d](https://user-images.githubusercontent.com/99364594/153329784-3a84033b-bb35-4d9c-b19e-950ab47aae02.jpg)
-![VKory Icono](https://user-images.githubusercontent.com/99364594/153329755-4529268e-1eae-4768-9091-dcdd1b04ee09.png)
 
 Hola Compañeros
 
@@ -16,3 +15,5 @@ Horario Escolar
 | 4:00-5:00 | Len. de Interfaz   | Len. de Interfaz   | Len. de Interfaz   | Len. de Interfaz   |                |
 | 5:00-6:00 | Taller de Sis. Op. | Tall. Sistemas Op. | Tall. Sistemas Op. | Tall. Sistemas Op. |                |
 | 6:00-7:00 | Redes de Comp.     | Redes de Comp.     | Redes de Comp.     | Redes de Comp.     | Redes de Comp. |
+
+![](https://th.bing.com/th/id/R.7e51d157250e97529ad7a265e472d0c1?rik=wasqkgGA%2fceFNg&riu=http%3a%2f%2fcgworld.jp%2fspecial%2f200th%2fimages%2fcomment%2flogo_live2d.png&ehk=Hd4R9YtKTJGIlyPHBFMjWiWkeNDvXXAic4v72s0GXag%3d&risl=&pid=ImgRaw&r=0.jpg)
