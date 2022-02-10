@@ -16,4 +16,4 @@ Horario Escolar
 | 5:00-6:00 | Taller de Sis. Op. | Tall. Sistemas Op. | Tall. Sistemas Op. | Tall. Sistemas Op. |                |
 | 6:00-7:00 | Redes de Comp.     | Redes de Comp.     | Redes de Comp.     | Redes de Comp.     | Redes de Comp. |
 
-![](https://tyrano.jp/img/plugin/live2d.png)
+![](https://cdn.netprotections.com/common/img/logo/company/live2d/live2d_500_180.png)
