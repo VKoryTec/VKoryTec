@@ -1,7 +1,7 @@
 
 ![VKory Icono](https://user-images.githubusercontent.com/99364594/153329755-4529268e-1eae-4768-9091-dcdd1b04ee09.png)
 
-[banner_live2d](https://user-images.githubusercontent.com/99364594/153329784-3a84033b-bb35-4d9c-b19e-950ab47aae02.jpg)
+![banner_live2d](https://user-images.githubusercontent.com/99364594/153329784-3a84033b-bb35-4d9c-b19e-950ab47aae02.jpg)
 
 
 Hola Compañeros
