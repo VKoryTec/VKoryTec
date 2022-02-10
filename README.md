@@ -7,7 +7,9 @@
 Hola Compañeros
 
 📲 Soy un estudiante de Ing. en sistemas computacionales del ITT y trabajo como rigger de Live2D
+
 ⚡ Me gusta la programación pues me permite crear videojuegos que a mi punto de vista, crear un mundo completamente nuevo me parece facinante.
+
 📫 Recibo comisiones para la realizacion de rigs para modelos 2D en Live2D
 
 | Hora (PM) | Lunes              | Martes             | Miercoles          | Jueves             | Viernes        |
